@@ -14,7 +14,7 @@
 </div>
 <br>
 <div>
-  Sou apaixonado por programação e estou constantemente buscando aprimorar minhas habilidades de forma autônoma. Tenho paixão por tecnologia e estou sempre ansioso para aprender novas tecnologias e frameworks.
+  Sou apaixonado por programação e estou constantemente buscando aprimorar minhas habilidades. Tenho paixão por tecnologia e estou sempre ansioso para aprender novas tecnologias e frameworks.
 
 Estou empenhado em crescer profissionalmente, contribuir com soluções inovadoras e trabalhar em equipe. Se você está à procura de um estagiário motivado, com sede de aprendizado e entusiasmo pela tecnologia, estou pronto para embarcar nesta jornada.
 </div>
