@@ -1,7 +1,7 @@
 ## Seja muito bem-vindo! Me chamo Adrian Lima 😁
 
 * 👨‍💻 Computer Science student
-* 🎂 22 anos de idade
+* 🎂 23 anos de idade
 * 🏡 Rio de Janeiro (RJ)
 <div>
   <a href = "mailto:adrianlimapro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
