@@ -70,9 +70,10 @@ Aplicação simples que converte BRL ↔ USD, EUR, BTC.
 ---
 
 ## 📊 Estatísticas do GitHub
+
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianLimaaa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianLimaaa&layout=compact&langs_count=16&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianLimaaa&show_icons=true&theme=onedark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianLimaaa&layout=compact&theme=onedark"/>
 </div>
 
 ---
