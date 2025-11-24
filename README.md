@@ -78,4 +78,12 @@ Aplicação simples que converte BRL ↔ USD, EUR, BTC.
 ---
 
 ## 🎯 Objetivos atuais
-- Aprof
+- Aprofundar React e construir interfaces profissionais  
+- Criar portfólio completo e atrativo  
+- Migrar para área de desenvolvimento  
+- Melhorar inglês para oportunidades internacionais  
+- Criar aplicações reais e úteis para o portfólio  
+
+---
+
+<h3 align="center">🚀 Sempre evoluindo. Sempre construindo.</h3>
