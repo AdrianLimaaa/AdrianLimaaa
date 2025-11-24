@@ -59,7 +59,6 @@ Aplicação moderna com:
 - Layout profissional  
 
 🔗 GitHub: https://github.com/AdrianLimaaa/mini-catalogo-react  
-🔗 Deploy: *adicione aqui se tiver*
 
 ---
 
